@@ -63,8 +63,9 @@ The generated GCode files after a bit of modifcations for changing pen behaviour
 
 
 Printer used : Ender 3 Neo
-
-https://www.printables.com/model/615186-drawlr-the-universal-penpencil-mount-for-ender-3-v
+[Pen holder attachment](https://www.printables.com/model/615186-drawlr-the-universal-penpencil-mount-for-ender-3-v)
+[inkscape](https://inkscape.org)
+[prusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/)
 Note : Best results with "Brush Pens" with soft tip bristles which can provide additional texture by providing different line width on different pressures.
 Final Plot :
 ![1725185246281](image/README/1725185246281.png)
